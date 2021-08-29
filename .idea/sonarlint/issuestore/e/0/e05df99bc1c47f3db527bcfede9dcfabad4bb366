@@ -1,0 +1,10 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(—çøÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(õ”üİ
+r
+java:S1128"\Remove this unused import 'io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker'.(›èÌÇ
+}
+java:S1128
+"bRemove this unused import 'org.springframework.cloud.client.circuitbreaker.CircuitBreakerFactory'.(ı„øĞşÿÿÿÿ
+|
+java:S1128"aRemove this unused import 'org.springframework.cloud.client.circuitbreaker.EnableCircuitBreaker'.(ÏÊØ¡ÿÿÿÿÿ
