@@ -21,8 +21,8 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven.compiler.source>15</maven.compiler.source>
-        <maven.compiler.target>15</maven.compiler.target>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
         <spring-cloud.version>2020.0.0</spring-cloud.version>
         <jackson-annotations.version>2.12.4</jackson-annotations.version>
         <jackson-databind.version>2.12.4</jackson-databind.version>
