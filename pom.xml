@@ -172,7 +172,7 @@
         </dependencies>
     </dependencyManagement>
     <build>
-        <finalName>EmployeeWebServices</finalName>
+        <finalName>employee-web-service</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
